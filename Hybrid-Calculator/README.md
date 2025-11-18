@@ -1,4 +1,4 @@
-# 🧮 [Hybrid Calculator](https://github.com/Aditya-354/Projects/blob/main/C%2B%2B/HybridCalculator.cpp) (C++)
+# 🧮 [Hybrid Calculator](https://github.com/Aditya-354/CPP-Projects/blob/main/Hybrid-Calculator/HybridCalculator.cpp) (C++)
 
 This is a hybrid calculator program built as part of my C++ OOP learning journey.  
 It combines the functionalities of both a **Simple Calculator** and a **Scientific Calculator** using **multiple inheritance**.
