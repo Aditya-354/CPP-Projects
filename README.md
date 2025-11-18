@@ -1,7 +1,16 @@
-# Projects For C++
+# 📘 C++ Projects
 
-This repository contains my projects in C++. 
+This repository contains my C++ projects.  
+Each project has its own folder with source code and a README explaining how it works.
 
-**1.** [Hybrid Calculator](https://github.com/Aditya-354/CPP-Projects/blob/main/Hybrid-Calculator/HybridCalculator.cpp)
+---
 
+## 🔹 Projects List
 
+### 1. Hybrid Calculator  
+📄 **Source:** [HybridCalculator.cpp](Hybrid-Calculator/main.cpp)  
+📝 **Readme:** [Hybrid-Calculator](Hybrid-Calculator/)
+
+---
+
+(More projects coming soon...)
