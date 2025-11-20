@@ -34,6 +34,8 @@ It combines the functionalities of both a **Simple Calculator** and a **Scientif
 ---
 
 ## 🧠 Output Example
+
+```
 1. Simple Calculation
 2. Scientific Calculation
 3. Hybrid Calculation
@@ -90,3 +92,4 @@ Log base 10:
 Enter your choice: 4
 
 ---------- Program exited successfully ----------
+```
