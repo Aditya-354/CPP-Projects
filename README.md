@@ -8,8 +8,14 @@ Each project has its own folder with source code and a README explaining how it 
 ## 🔹 Projects List
 
 ### 1. Hybrid Calculator  
-📄 **Source:** [HybridCalculator.cpp](Hybrid-Calculator/main.cpp)  
-📝 **Readme:** [Hybrid-Calculator](Hybrid-Calculator/)
+📄 **Source:** [main.cpp](Hybrid-Calculator/main.cpp)  
+📝 **Readme:** [Hybrid-Calculator](Hybrid-Calculator/README.md)
+
+---
+
+### 2. Number Guessing Game
+📄 **Source:** [main.cpp](Number_Guessing_Game/main.cpp)
+📝 **Readme:** [Number Guessing Game](Number_Guessing_Game/README.md)
 
 ---
 
