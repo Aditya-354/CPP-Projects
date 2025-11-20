@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (C++)
+# 🎯 [Number Guessing Game](Number_Guessing_Game/main.cpp) (C++)
 
 A simple but engaging console-based number guessing game built in C++.  
 The computer generates a random number based on the difficulty level you choose, and your goal is to guess it within the allowed number of attempts.
